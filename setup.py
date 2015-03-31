@@ -24,6 +24,6 @@ setup(
         'Topic :: System :: Monitoring',
     ),
     install_requires=(
-        'influxdb',
+        'influxdb==0.4.1',
     ),
 )
